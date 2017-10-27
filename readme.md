@@ -56,6 +56,20 @@ for you the link will be different. It will have your username. The URL is of th
 
 `https://github.com/YOUR-USER-NAME/git-intro`
 
+Once the project is cloned you can run or edit the project locally in an IDE of your choice.
+
+## Creating a branch.
+The purpose of branches is to enable you to work on different features/issues simultaneously. By default you are in the `master` branch. 
+To create and checkout (Jump to that branch) a branch name `branch2` we use the command
+
+`git checkout -b branch2`
+
+To checkout to an existing branch like `master` we will use the command 
+
+`git checkout master`
+
+It is always recommended to use meaning full branch names. eg is you are working to fix or add transparency the name of the branch should be `transparency` or something similar.
+
 ## Setting an upstream
 
 ## Creating an issue and pull requesr
