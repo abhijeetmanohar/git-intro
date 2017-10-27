@@ -4,6 +4,22 @@ This repository is a guide for people new to open-source community and version c
 
 ## Some common terms
 
+Here are some of the terms you will encounter frequently while working with git.
+
+* **Repository** - A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation). 
+
+* **Fork** - A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original. Forks remain attached to the original, allowing you to submit a pull request to the original's author to update with your changes.
+
+* **Clone** - A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. With your clone you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online.
+
+* **Issue** - Issues are suggested improvements, tasks or questions related to the repository. Issues can be created by anyone and are moderated by repository collaborators.
+
+* **Commit** - A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID that allows you to keep record of what changes were made when and by who. Commits usually contain a commit message which is a brief description of what changes were made.
+
+* **Pull request (PR)** - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators.
+
+* **Branch** - A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the master branch to publish your changes.
+
 ## Installing git to on your machine and setting everything up.
 
 ## Forking a project
