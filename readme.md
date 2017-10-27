@@ -73,8 +73,22 @@ It is always recommended to use meaning full branch names. eg is you are working
 ## Reporting an issue
 Once you clone the project its time to run the project locally. If you find a bug or think there is a better way of doing somthing or want to add a feature you should report an issue. This is done on GitHub page of the original repository. Click on the `Issue` tab which is just under the name of the repository. 
 
+TODO: Add an image
 
 Enter a title and description of the issue. The project maintainers will comment on the issue and give their own suggestions. Once the issue is approved its time to fix the bug or add the feature.
+
+## Fixing an issue
+Once the issue is approved, create and checkout to a new branch, update the code to fix the bug or to add feature. Once you are done with editing the code its time to add the changes. In the terminal type the commad `git status`. This will give you the list of files that have been edited. To save the changes made to a file, type the command `git add PATH-TO-THE-FILE/FILENAME` eg if the file name is `code.java` and is in a folder named `main` the command would be 
+
+`git add main/code.java`
+
+Save all the files you have edited. You can always use the `git status` command to check if you have added a file or not. If you want to save all the files you have changed use the command
+
+`git add *`
+
+Once you have added all the files its time to commit the changes. A commit must contain a commit message. This usually tells what changes have been made. Always try to keep your commit messages shot and meaningfull. To commit change type the follwing commad 
+
+`git commit -m "Your commit message"`
 
 ## Setting an upstream
 
