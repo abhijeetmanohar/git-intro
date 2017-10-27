@@ -39,7 +39,7 @@ You need to set your `username` and `email` before you proceed. Make sure these 
 ## Forking a project
 Before you start working on a project you need to create your own copy of the repository. In other words you nedd to fork the project or repository. This can be done by click the Fork button on the top right corner of the project GitHub page.
 
-TODO: Add an image here.
+![fork](https://user-images.githubusercontent.com/17262180/32114545-7801a63e-bb61-11e7-9c48-507515bb3b81.png)
 
 This will create a copy of the project which belongs to you i.e. you will be owner of that copy.
 
@@ -73,7 +73,7 @@ It is always recommended to use meaning full branch names. eg is you are working
 ## Reporting an issue
 Once you clone the project its time to run the project locally. If you find a bug or think there is a better way of doing somthing or want to add a feature you should report an issue. This is done on GitHub page of the original repository. Click on the `Issue` tab which is just under the name of the repository. 
 
-TODO: Add an image
+![issue](https://user-images.githubusercontent.com/17262180/32114645-a9cc6f8c-bb61-11e7-9a38-386bc4b17d11.png)
 
 Click on the `New issue` button. Enter a title and description of the issue. The project maintainers will comment on the issue and give their own suggestions. Once the issue is approved its time to fix the bug or add the feature.
 
@@ -97,7 +97,7 @@ Once you have fixed the issue locally its time to upload your code to your copy 
 
 If you go to your copy of the repository on GitHub you will see a new branch named `transparency` has been created.
 
-TODO: Add an image
+![branch upload](https://user-images.githubusercontent.com/17262180/32114708-c2bdadd0-bb61-11e7-9f78-c5b3d485dc37.png)
 
 ## Sending a Pull Request (PR)
 To send a PR browse to the GitHub page of the original repository. You will see a tab titled `Pull requests` below the repository name. Click on the button named `New pull request`. 
