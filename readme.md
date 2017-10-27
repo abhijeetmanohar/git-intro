@@ -39,8 +39,19 @@ You need to set your `username` and `email` before you proceed. Make sure these 
 ## Forking a project
 Before you start working on a project you need to create your own copy of the repository. In other words you nedd to fork the project or repository. This can be done by click the Fork button on the top right corner of the project GitHub page.
 
+TODO: Add an image here.
 
 This will create a copy of the project which belongs to you i.e. you will be owner of that copy.
+
+## Setting up the project locally.
+Once You have forked a project, its time to clone the project i.e. make a local copy of the project. This is done by git clone command which goes like this.
+`git clone URL_OF_THE_PROJECT`
+
+for this project the link would be 
+
+`git clone https://github.com/m-murad/git-intro`
+
+for you the link will be different. It will have your username. The URL is of the format https://github.com/YOUR_USER_NAME/git-intro
 
 ## Setting an upstream
 
