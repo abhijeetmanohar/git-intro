@@ -22,6 +22,20 @@ Here are some of the terms you will encounter frequently while working with git.
 
 ## Installing git to on your machine and setting everything up.
 
+git is a command line tool that allows you to work with version control systems.
+
+### Installing
+* **Mac** - To install git on a Mac follow [this link](https://git-scm.com/download/mac).
+* **Linux** - To install git on a Linux machine follow [this link](https://git-scm.com/download/linux).
+* **Windows** - To install git on a windows machine follow [this link](https://git-scm.com/download/win).
+
+### Setting you environment
+You need to set your `username` and `email` before you proceed. Make sure these are same as that of your GitHub account. I will be using my username `m-murad` and email `murad.kuka@gmail.com` for this example.
+* **Setting your user name** - 
+`git config --global user.name "m-murad"`
+* **Setting your email** - 
+`git config --global user.email "murad.kuka@gmail.com"`
+
 ## Forking a project
 
 ## Setting an upstream
