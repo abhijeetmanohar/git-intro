@@ -6,7 +6,7 @@ This repository is a guide for people new to open-source community and version c
 
 Here are some of the terms you will encounter frequently while working with git.
 
-* **Repository** - A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation). 
+* **Repository (repo)** - A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation). 
 
 * **Fork** - A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original. Forks remain attached to the original, allowing you to submit a pull request to the original's author to update with your changes.
 
@@ -69,6 +69,12 @@ To checkout to an existing branch like `master` we will use the command
 `git checkout master`
 
 It is always recommended to use meaning full branch names. eg is you are working to fix or add transparency the name of the branch should be `transparency` or something similar.
+
+## Reporting an issue
+Once you clone the project its time to run the project locally. If you find a bug or think there is a better way of doing somthing or want to add a feature you should report an issue. This is done on GitHub page of the original repository. Click on the `Issue` tab which is just under the name of the repository. 
+
+
+Enter a title and description of the issue. The project maintainers will comment on the issue and give their own suggestions. Once the issue is approved its time to fix the bug or add the feature.
 
 ## Setting an upstream
 
