@@ -31,12 +31,16 @@ git is a command line tool that allows you to work with version control systems.
 
 ### Setting you environment
 You need to set your `username` and `email` before you proceed. Make sure these are same as that of your GitHub account. I will be using my username `m-murad` and email `murad.kuka@gmail.com` for this example.
-* **Setting your user name** - 
+* **Setting your username** - 
 `git config --global user.name "m-murad"`
 * **Setting your email** - 
 `git config --global user.email "murad.kuka@gmail.com"`
 
 ## Forking a project
+Before you start working on a project you need to create your own copy of the repository. In other words you nedd to fork the project or repository. This can be done by click the Fork button on the top right corner of the project GitHub page.
+
+
+This will create a copy of the project which belongs to you i.e. you will be owner of that copy.
 
 ## Setting an upstream
 
