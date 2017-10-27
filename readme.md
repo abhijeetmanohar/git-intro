@@ -45,13 +45,16 @@ This will create a copy of the project which belongs to you i.e. you will be own
 
 ## Setting up the project locally.
 Once You have forked a project, its time to clone the project i.e. make a local copy of the project. This is done by git clone command which goes like this.
+
 `git clone URL_OF_THE_PROJECT`
 
-for this project the link would be 
+for my copy of the project link would be 
 
 `git clone https://github.com/m-murad/git-intro`
 
-for you the link will be different. It will have your username. The URL is of the format https://github.com/YOUR_USER_NAME/git-intro
+for you the link will be different. It will have your username. The URL is of the format 
+
+`https://github.com/YOUR-USER-NAME/git-intro`
 
 ## Setting an upstream
 
