@@ -101,3 +101,6 @@ If you go to your copy of the repository on GitHub you will see a new branch nam
 
 ## Sending a Pull Request (PR)
 To send a PR browse to the GitHub page of the original repository. You will see a tab titled `Pull requests` below the repository name. Click on the button named `New pull request`. 
+
+## Deleting the Branch(optional)
+Once the PR is merged by the author,  the branch created could be deleted. The purpose of deleting branches is just to avoid confusion in case too many branches are created. This could be done by clicking on the grey button named 'Delete Branch'.
